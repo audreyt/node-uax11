@@ -1,0 +1,33 @@
+{
+  "name": "convert-eastasianwidth",
+  "version": "0.0.1",
+  "main": "index.js",
+  "description": "Convert between full/half-width ASCII characters",
+  "keywords": [
+    "convert",
+    "unicode",
+    "fullwidth",
+    "halfwidth"
+  ],
+  "author": {
+    "name": "Audrey Tang",
+    "email": "audreyt@audreyt.org",
+    "twitter": "audreyt"
+  },
+  "homepage": "https://github.com/audreyt/node-convert-eastasianwidth",
+  "bugs": {
+    "url": "http://github.com/audreyt/node-convert-eastasianwidth/issues",
+    "email": "audreyt@audreyt.org"
+  },
+  "license": {
+    "type": "Public Domain",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/audreyt/node-convert-eastasianwidth.git"
+  },
+  "dependencies": {
+    "unorm": "*"
+  }
+}
