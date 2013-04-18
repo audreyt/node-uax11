@@ -1,11 +1,12 @@
 {
-  "name": "convert-eastasianwidth",
+  "name": "uax11",
   "version": "0.0.1",
   "main": "index.js",
   "description": "Convert between full/half-width ASCII characters",
   "keywords": [
     "convert",
     "unicode",
+    "east asian width",
     "fullwidth",
     "halfwidth"
   ],
