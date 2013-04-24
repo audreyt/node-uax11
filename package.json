@@ -1,6 +1,6 @@
 {
   "name": "uax11",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "description": "Convert between full/half-width ASCII characters",
   "keywords": [
@@ -15,9 +15,9 @@
     "email": "audreyt@audreyt.org",
     "twitter": "audreyt"
   },
-  "homepage": "https://github.com/audreyt/node-convert-eastasianwidth",
+  "homepage": "https://github.com/audreyt/node-uax11",
   "bugs": {
-    "url": "http://github.com/audreyt/node-convert-eastasianwidth/issues",
+    "url": "http://github.com/audreyt/node-uax11/issues",
     "email": "audreyt@audreyt.org"
   },
   "license": {
@@ -26,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/audreyt/node-convert-eastasianwidth.git"
+    "url": "http://github.com/audreyt/node-uax11.git"
   },
   "dependencies": {
     "unorm": "*"
