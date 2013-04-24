@@ -17,7 +17,9 @@
   function toHalfwidthNFC(it){
     return unorm.nfc(toHalfwidth(it));
   }
-  module.exports = toFullwidth;
+  module.exports = function(str, cb){
+    return cb(toFullwidth(str));
+  };
   module.exports.toFullwidth = toFullwidthNFC;
   module.exports.toHalfwidth = toHalfwidthNFC;
   module.exports.toFullwidthNFC = toFullwidthNFC;
