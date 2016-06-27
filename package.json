@@ -1,6 +1,6 @@
 {
   "name": "uax11",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "index.js",
   "description": "Convert between full/half-width ASCII characters",
   "keywords": [
